@@ -29,19 +29,16 @@ To set up and run this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/research-agent.git
-   cd research-agent
+   git clone https://github.com/ahmad786writes/Research-and-Development-Agent.git
+   cd Research-and-Development-Agent
    ```
 
 2. Install dependencies:
    ```bash
-   pip install crewai openai
+   pip install -r requirements.txt
    ```
 
-3. Run the research workflow:
-   ```bash
-   python main.py
-   ```
+3. Run the research Notebook
 
 ## Contributing
 Feel free to open an issue or submit a pull request for improvements.
